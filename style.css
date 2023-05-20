@@ -1,0 +1,17 @@
+body {
+    background-color:chartreuse;
+
+}
+h2 {
+    color: brown;
+}
+img{
+    border-radius: 30px;
+}
+h1{
+    color: blue;
+}
+table{
+    border-collapse: collapse;
+    Border: 5px solid blue;
+}
